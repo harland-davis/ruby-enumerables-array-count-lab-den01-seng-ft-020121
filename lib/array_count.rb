@@ -5,10 +5,10 @@ def count_strings(array)
  index = 0 
  
  while index < array.length do 
-   if array[index].is_a?(String)
-  end 
-  index += 1 
-end
+    if array[index].is_a?(String)
+    end 
+    index += 1 
+  end
 end 
 
 
